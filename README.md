@@ -105,3 +105,4 @@ Keyboard shortcut: ⌘+k
 Action: Send text
 value: clear\n
 ```
+
